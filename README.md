@@ -1,2 +1,2 @@
 # DXbanking_Demo
-For used only testing. after its done delete this
+Used only for testing. delete it after its done
