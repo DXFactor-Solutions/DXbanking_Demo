@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-VERSION = "6.0.0"
+VERSION = "7.0.0"
 # Application definition
 
 INSTALLED_APPS = [
